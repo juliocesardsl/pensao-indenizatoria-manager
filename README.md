@@ -123,15 +123,6 @@ Desenvolvido por Júlio Lima (julio.slima)
 💼 Secretaria de Estado de Economia — SEEC
 📧 contato: [julio.slima.dev@gmail.com]
 
-🏗️ Ideias Futuras
-
-Implementar dashboard de indicadores (Qt ou Tkinter Canvas)
-
-Adicionar logs de auditoria por usuário
-
-Suporte a múltiplas unidades gestoras
-
-Gerador automático de comprovante de rendimentos por CPF
 
 🧾 "Automatizar processos é libertar o tempo para pensar."
 — Júlio Lima
